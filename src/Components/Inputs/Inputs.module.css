@@ -1,0 +1,42 @@
+
+.registerForm {
+    width: 80%;
+    margin: 10px auto;
+}
+
+.registerContainer {
+    margin-bottom: 15px;
+}
+
+.label {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: white;
+}
+
+.inputName {
+    width: 100%;
+    height: 45px;
+    padding: 10px;
+    border: 1px solid darkslateblue;
+    border-radius: 2px;
+    font-size: 16px;
+    background-color: #fff;
+}
+
+.inputPassword {
+    width: 100%;
+    height: 45px;
+    padding: 10px;
+    border: 1px solid darkslateblue;
+    border-radius: 2px;
+    font-size: 16px;
+    background-color: #fff;
+}
+
+.error {
+    padding: 10px;
+    border: 1px solid red;
+    color: red;
+    background-color: #f2dede;
+}

@@ -1,0 +1,19 @@
+
+.btn {
+    height: 45px;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid darkslateblue;
+    border-radius: 2px;
+    font-size: 16px;
+    background-color: #7ADD77 ;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.registerForm {
+    width: 80%;
+    margin: 10px auto;
+}
